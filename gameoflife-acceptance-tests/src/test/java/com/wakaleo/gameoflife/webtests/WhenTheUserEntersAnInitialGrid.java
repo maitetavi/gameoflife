@@ -14,6 +14,8 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
 
+//Starting a new simulation
+
 @RunWith(ThucydidesRunner.class)
 @WithTag("Starting a new simulation")
 public class WhenTheUserEntersAnInitialGrid {
