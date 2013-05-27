@@ -11,6 +11,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.wakaleo.gameoflife.domain.Universe;
 
+//game controller
 @Controller
 @RequestMapping("/game")
 public class GameController {
